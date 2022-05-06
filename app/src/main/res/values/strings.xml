@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Datastore Playground</string>
+    <string name="text_desc_increment">Increment</string>
+    <string name="text_desc_restart">Restart</string>
+</resources>
