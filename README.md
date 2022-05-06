@@ -1,2 +1,3 @@
-# android-datastore-playground
-Jetpack datastore playgraound
+# Android Datastore Playground
+Playground app using Jetpack Datastore and compose.
+
